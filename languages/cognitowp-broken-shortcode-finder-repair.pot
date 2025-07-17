@@ -1,0 +1,151 @@
+# Copyright (C) 2024 CognitoWP
+# This file is distributed under the same license as the Broken Shortcode Finder package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Broken Shortcode Finder 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-15 12:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+
+#: admin-dashboard.php:2
+msgid "Broken Shortcode Finder"
+msgstr ""
+
+#: admin-dashboard.php:6
+msgid "Scan for Orphaned Shortcodes"
+msgstr ""
+
+#: admin-dashboard.php:8
+msgid "Run Scan"
+msgstr ""
+
+#: admin-dashboard.php:15
+msgid "Scan Results"
+msgstr ""
+
+#: admin-dashboard.php:17
+msgid "No orphaned shortcodes found!"
+msgstr ""
+
+#: admin-dashboard.php:20
+msgid "Found"
+msgstr ""
+
+#: admin-dashboard.php:20
+msgid "orphaned shortcodes"
+msgstr ""
+
+#: admin-dashboard.php:25
+msgid "Shortcode"
+msgstr ""
+
+#: admin-dashboard.php:26
+msgid "Usage Count"
+msgstr ""
+
+#: admin-dashboard.php:27
+msgid "Used In"
+msgstr ""
+
+#: admin-dashboard.php:41
+msgid "Edit Post"
+msgstr ""
+
+#: admin-dashboard.php:51
+msgid "Replace Shortcode"
+msgstr ""
+
+#: admin-dashboard.php:56
+msgid "New Shortcode:"
+msgstr ""
+
+#: admin-dashboard.php:62
+msgid "Create backup before making changes"
+msgstr ""
+
+#: admin-dashboard.php:68
+msgid "Dry run (show what would be changed without saving)"
+msgstr ""
+
+#: admin-dashboard.php:74
+msgid "Confirm Replacement"
+msgstr ""
+
+#: admin-dashboard.php:77
+msgid "Cancel"
+msgstr ""
+
+#: admin-dashboard.php:85
+msgid "Preview Changes for:"
+msgstr ""
+
+#: admin-dashboard.php:96
+msgid "Replacement Shortcode:"
+msgstr ""
+
+#: admin-dashboard.php:99
+msgid "Update Preview"
+msgstr ""
+
+#: admin-dashboard.php:105
+msgid "Original Content"
+msgstr ""
+
+#: admin-dashboard.php:109
+msgid "Modified Content"
+msgstr ""
+
+#: admin-dashboard.php:117
+msgid "Apply These Changes"
+msgstr ""
+
+#: admin-dashboard.php:120
+msgid "Close Preview"
+msgstr ""
+
+#: admin-interface.php:150
+msgid "Run Scan"
+msgstr ""
+
+#: admin-interface.php:151
+msgid "Scanning..."
+msgstr ""
+
+#: admin-interface.php:152
+msgid "Are you sure you want to remove all instances of this shortcode?"
+msgstr ""
+
+#: admin-interface.php:153
+msgid "Are you sure you want to apply these changes?"
+msgstr ""
+
+#: admin-interface.php:154
+msgid "Please enter a replacement shortcode"
+msgstr ""
+
+#: admin-interface.php:155
+msgid "An error occurred. Please try again."
+msgstr ""
+
+#: admin-interface.php:156
+msgid "No orphaned shortcodes found in scanned content."
+msgstr ""
+
+#: admin-interface.php:157
+msgid "Shortcode not found in selected content."
+msgstr ""
+
+#: admin-interface.php:158
+msgid "instances of the shortcode were removed."
+msgstr ""
+
+#: admin-interface.php:159
+msgid "instances of the shortcode were replaced."
+msgstr ""
