@@ -1,11 +1,9 @@
 <?php
 /*
 * Plugin Name: Broken Shortcode Finder 
-* Plugin URI: https://wpbay.com/store/cognitowp/
 * Description: Scans your WordPress site for orphaned shortcodes and helps you repair or remove them.
 * Version: 1.0.9
-* Author: CognitoWP
- * Author URI: https://wpbay.com/store/cognitowp/
+* Author: Juan Mojica
  * License: GPL-2.0+
  * Text Domain: broken-shortcode-finder-cp
  * Domain Path: /languages
